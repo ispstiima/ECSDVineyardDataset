@@ -26,7 +26,7 @@ Contact person: Annalisa Milella - [annalisa.milella@stiima.cnr.it](mailto:annal
 National Research Council of Italy (CNR), Institute of Intelligent Systems and Technologies for Advanced Manufacturing (STIIMA), via Amendola 122 D/O, 70126, Bari, Italy
 
 ## Cite this dataset
--	Casado-García, A., Heras, J., Milella, A., & Marani, R. (2023). Generalization of deep learning models applied to semantic segmentation of in-field natural images in vineyards. To be presented at the European Conference on Precison Agriculture 2023 ([ECPA2023](https://www.ecpa2023.it)), Bologna, July 2-6, 2023, 
+-	Casado-García, A., Heras, J., Milella, A., & Marani, R. (2023). Generalization of deep learning models applied to semantic segmentation of in-field natural images in vineyards. To be presented at the European Conference on Precison Agriculture 2023 ([ECPA2023](https://www.ecpa2023.it)), Bologna, July 2-6, 2023.
 
 ## Further references
 1. Milella, A., Marani, R., Petitti, A., Reina, G. (2019) In-field high throughput grapevine phenotyping with a consumer-grade depth camera. Computers and Electronics in Agriculture, 156, 293-306.

@@ -22,7 +22,7 @@ This work was funded by the Project [E-crops - Technologies for Digital and Sust
 ## Credits
 Annalisa Milella (CNR-STIIMA) and Giulio Reina (Politecnico of Bari) conceived and performed the experiments. 
 Roberto Marani (CNR-STIIMA) contributed to dataset generation and maintenance. 
-The agricultural farm Cantina San Donaci (BR) is gratefully acknowledged for hosting experimental tests and for support during data collection.
+The agricultural farm Cantina San Donaci (BR), Italy, is gratefully acknowledged for hosting experimental tests and for support during data collection.
 
 Contact person: Annalisa Milella - [annalisa.milella@stiima.cnr.it](mailto:annalisa.milella@stiima.cnr.it)
 

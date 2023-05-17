@@ -20,6 +20,9 @@ Manual annotation was performed to create a segmentation ground truth of three c
 This work was funded by the Project [E-crops - Technologies for Digital and Sustainable Agriculture](https://www.e-crops.it) (Italian Ministry of University and Research, PON Agrifood Program, No. ARS01_01136).
 
 ## Credits
+Annalisa Milella (CNR-STIIMA) and Giulio Reina (Politecnico of Bari) conceived and performed the experiments. 
+Roberto Marani (CNR-STIIMA) contributed to dataset generation and maintenance. 
+The agricultural farm Cantina San Donaci (BR) is gratefully acknowledged for hosting experimental tests and for support during data collection.
 
 Contact person: Annalisa Milella - [annalisa.milella@stiima.cnr.it](mailto:annalisa.milella@stiima.cnr.it)
 

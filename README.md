@@ -4,7 +4,7 @@ E-crops @ San Donaci - Vineyard Dataset (2021)
 ## Dataset description
 This dataset is made of natural images acquired from a moving vehicle by the Intel RealSense D435 (Santa Clara, CA, USA) RGB-D camera, in a commercial field in San Donaci (Apulia, Italy). The grape variety was Vitis vinifera, cultivar “Negroamaro” (red grape variety). 
 
-The Intel RealSense D435 produced images in portrait mode of resolution of 1280x720 pixels (see the *Images* folder). The plants were acquired frontally, at a distance between 0.8 and 1 m, as the vehicle flowed through the rows of vines. The dataset consists of 315 images captured at three stages of the seasonal grapevine phenological development:
+The Intel RealSense D435 produced images in portrait mode of resolution of 1280x720 pixels (see the *Images* folder) and aligned depth maps of the same resolutions (see the CSV files in the *Depths* folder, units are in meters). The plants were acquired frontally, at a distance between 0.8 and 1 m, as the vehicle flowed through the rows of vines. The dataset consists of 315 images captured at three stages of the seasonal grapevine phenological development:
 - at fruit set (July 16th, 2021)
 - before harvesting (September 10th, 2021)
 - at the beginning of leaf fall (October 22nd, 2021)

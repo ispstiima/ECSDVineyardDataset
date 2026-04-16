@@ -16,6 +16,8 @@ Manual annotation was performed to create a segmentation ground truth of three c
 - grapes: grape bunches (white segments)
 - background: the remaining pixels (black segments)
 
+An additional set of 50 images is included in the TestImages folder, composed of Malvasia Nera vines.
+
 ## Acknowledgments
 This work was funded by the Project [E-crops - Technologies for Digital and Sustainable Agriculture](https://www.e-crops.it) (Italian Ministry of University and Research, PON Agrifood Program, No. ARS01_01136).
 
